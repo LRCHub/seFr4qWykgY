@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "너랑 나 YOU & I",
+  "base_artist": "아이유(IU)",
+  "createdAt": "2025-12-14T15:46:40.057220Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "너랑 나",
+      "artist": "윤도현",
+      "has_synced": true,
+      "path": "select/01_너랑_나_윤도현.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bonus Track - You & I (fPM TECHNORCHESTRA MIX) (BONUS TRACK - 너랑 나 (FPM TECHNORCHESTRA MIX))",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/02_Bonus_Track_-_You_&_I_(fPM_TECHNORCHESTRA_MIX)_(BONUS_TRACK_-_너랑_나_(FPM_TECHNORC_IU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "너랑 나 (YOU&I)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/03_너랑_나_(YOU&I)_IU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "너랑 나 YOU & I",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/04_너랑_나_YOU_&_I_IU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bonus Track - You&I (fPM TECHNORCHESTRA MIX) (BONUS TRACK - 너랑 나 (FPM TECHNORCHESTRA MIX))",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/05_Bonus_Track_-_You&I_(fPM_TECHNORCHESTRA_MIX)_(BONUS_TRACK_-_너랑_나_(FPM_TECHNORCHE_IU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "너랑 나",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_너랑_나_IU.txt"
+    }
+  ]
+}
